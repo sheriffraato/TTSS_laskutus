@@ -1,0 +1,9 @@
+
+- Lue vuokraukset excelistä
+    - Skippaa jo laskutetut <-- "Laskutettu"-sarakkeen solu ei-tyhjä 
+- Lue laskupohja
+- Laita tiedot laskupohjaan
+    - Tarkista päivämäärä
+- Tallenna lasku sopivaan kansioon
+- Vie lasku säpo-luonnoksiin
+- Merkkaa vuokrausexceliin laskutetuksi
